@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+#root{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing:auto;
+  font-style:normal;
+}
+.bg-rabbit-red {
+  background-color: #ea2e0e; /* Replace with your desired color */
+}
